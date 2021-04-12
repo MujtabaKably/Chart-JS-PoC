@@ -1,0 +1,8 @@
+.App {
+  font-family: sans-serif;
+}
+
+.graph-div {
+  max-height: 400px;
+  overflow: auto;
+}
